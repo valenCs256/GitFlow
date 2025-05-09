@@ -1,7 +1,3 @@
-function nombre (params) {
-    console.log("Valentina");
-}
-
-function valentina(params) {
-    console.log("valentina was here");
+function main(params) {
+    console.log("Hello, world!");
 }
